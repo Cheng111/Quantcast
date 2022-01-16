@@ -80,7 +80,7 @@ class LogData:
 
 
 def printusage():
-    print("Usage: most_active_cookie log_csv_file -d date(YYYY-MM-DD)")
+    print("Usage: most_active_cookie.py log_csv_file -d date(YYYY-MM-DD)")
     sys.exit(-1)
     
 def main():
